@@ -219,36 +219,8 @@ GitHub Pages 默认依赖 GitHub 全球 CDN 节点，但国内用户访问时仍
 
 *   未发生任何因防护规则误判导致的正常访问阻断&#x20;
 
-五、活动参与：开发者权益获取指南
 
 
-
-完成上述配置后，可按以下步骤参与 GitHub 开发者计划：
-
-
-
-
-1.  在项目 README.md 添加标准化声明：
-
-
-
-
-```
-\[!\[EdgeOne加速]\(https://edgeone-assets.tencent-cloud.com/logo.svg)]\(https://edgeone.ai)
-
-本项目静态资源加速由Tencent EdgeOne提供支持，全球访问速度提升60%+
-```
-
-
-
-1.  提交申请材料至`edgeonedeveloper@tencent.com`，邮件主题格式：
-    「【技术内容创作】GitHub Pages 优化方案 - 用户名」
-
-
-    「【技术内容创作】GitHub Pages 优化方案 - 用户名」
-
-
-2.  审核通过后，将获得 10-50 个免费套餐兑换码（根据项目 Star 数阶梯发放），可用于团队其他项目或分享给社区伙伴。
 
 
 通过这套标准化流程，开发者可在 1 小时内完成 EdgeOne 与 GitHub Pages 的集成，既解决实际技术痛点，又能享受专属权益。建议每季度对配置进行一次复盘，结合 EdgeOne 控制台的「优化建议」模块持续迭代，让开源项目始终保持最佳访问体验。
